@@ -1,0 +1,258 @@
+{
+  "users": [
+    {
+      "name": "haya ahmed",
+      "email": "haya@gmail.com",
+      "password": "123456789",
+      "phoneNum": "01123456789",
+      "id": 1
+    },
+    {
+      "name": "marwan123",
+      "email": "marwan@gmail.com",
+      "password": "123456123",
+      "phoneNum": "0123456741",
+      "id": 2
+    }
+  ],
+  "category": [
+    {
+      "name": "frames",
+      "desc": "We have different types of frames  such as \"classic , modern\" .",
+      "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtqRF0u3js-pvz3NWYAnv--ZzTVDrtR3EhmQ&usqp=CAU",
+      "id": 1
+    },
+    {
+      "name": "tables",
+      "desc": "we have different types of tables such as \" coffee table , office table , Dining table \"",
+      "imgurl": "https://images.pexels.com/photos/2829032/pexels-photo-2829032.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "id": 2
+    },
+    {
+      "name": "shoeses",
+      "desc": "We have different types of shoes such as \"classic , fashioned and sports\"",
+      "imgurl": "https://images.pexels.com/photos/19090/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600",
+      "id": 3
+    },
+    {
+      "name": "chairs",
+      "desc": "we have different types of chairs such as \" coffee table , office table ,Dining table \"",
+      "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ACQZyS1as0_omssghASz4mKI9uG1wMZLAYqsMdJIImLxRBYDqQPxbXSwAHcKic5Uc3U&usqp=CAU",
+      "id": 4
+    }
+  ],
+  "product": [
+    {
+      "name": "off white frame ",
+      "desc": "wall classic off white frame ",
+      "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHxNGcwgQNCqie2bAjSqpvCdnQYDhNpLs_Q&usqp=CAU",
+      "categoryname": "frames",
+      "categoryID": "1",
+      "price": "150",
+      "id": 3
+    },
+    {
+      "name": "6 different shapes of frame ",
+      "desc": "wall classic black frame ",
+      "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnumqZDaC8A19edbfbDHLurjCzu5m8kSd3HA&usqp=CAU",
+      "categoryname": "frames",
+      "categoryID": "1",
+      "price": "300",
+      "id": 4
+    },
+    {
+      "name": "white Classy chair",
+      "desc": " Classy chair",
+      "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ACQZyS1as0_omssghASz4mKI9uG1wMZLAYqsMdJIImLxRBYDqQPxbXSwAHcKic5Uc3U&usqp=CAU",
+      "categoryname": "chairs",
+      "categoryID": "4",
+      "price": "400",
+      "id": 5
+    },
+    {
+      "name": "off white Classy chair",
+      "desc": " Classy chair",
+      "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdiKnQfp_aF1R7il5CtkF4-939ofWgazFSYQ&usqp=CAU",
+      "categoryname": "chairs",
+      "categoryID": "4",
+      "price": "350",
+      "id": 6
+    },
+    {
+      "name": "white Classy chair",
+      "desc": " Classy chair",
+      "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvqjrVChNTOx_MbPVsZV-ayVj3dZV37-aJeg&usqp=CAU",
+      "categoryname": "chairs",
+      "categoryID": "4",
+      "price": "450",
+      "id": 7
+    },
+    {
+      "name": "classy heels shoes",
+      "desc": "classy heels for ladies",
+      "imgurl": "https://images.pexels.com/photos/336372/pexels-photo-336372.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "categoryname": "shoeses",
+      "categoryID": "3",
+      "price": "300",
+      "id": 8
+    },
+    {
+      "name": "yellow shoes",
+      "desc": "fashionable shoes",
+      "imgurl": "https://images.pexels.com/photos/1598508/pexels-photo-1598508.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "categoryname": "shoeses",
+      "categoryID": "3",
+      "price": "200",
+      "id": 9
+    },
+    {
+      "name": "black classy shoes",
+      "desc": "classy black shoes for men",
+      "imgurl": "https://images.pexels.com/photos/292999/pexels-photo-292999.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "categoryname": "shoeses",
+      "categoryID": "3",
+      "price": "500",
+      "id": 10
+    },
+    {
+      "name": "sports blue shoes",
+      "desc": "sports blue shoes for men",
+      "imgurl": "https://images.pexels.com/photos/637076/pexels-photo-637076.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "categoryname": "shoeses",
+      "categoryID": "3",
+      "price": "300",
+      "id": 11
+    },
+    {
+      "name": "sports soft blue shoes",
+      "desc": "sports soft and comfortable blue shoes for men",
+      "imgurl": "https://images.pexels.com/photos/19090/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600",
+      "categoryname": "shoeses",
+      "categoryID": "3",
+      "price": "200",
+      "id": 12
+    },
+    {
+      "name": "white dinning table",
+      "desc": "small Circular white dinning table ",
+      "imgurl": "https://images.pexels.com/photos/2097118/pexels-photo-2097118.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "categoryname": "tables",
+      "categoryID": "2",
+      "price": "500",
+      "id": 13
+    },
+    {
+      "name": "beige off white table",
+      "desc": "beige small classy table",
+      "imgurl": "https://images.pexels.com/photos/6373308/pexels-photo-6373308.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "categoryname": "tables",
+      "categoryID": "2",
+      "price": "400",
+      "id": 14
+    },
+    {
+      "name": "beige off white office table",
+      "desc": "beige office disk ,office table",
+      "imgurl": "https://images.pexels.com/photos/1957477/pexels-photo-1957477.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "categoryname": "tables",
+      "categoryID": "2",
+      "price": "350",
+      "id": 15
+    }
+  ],
+  "admins": [
+    {
+      "name": "admin123",
+      "email": "jan123@gmail.com",
+      "password": "adminjan123",
+      "phoneNum": "01234567890",
+      "id": 1
+    }
+  ],
+  "order": [],
+  "cartorders": [
+    {
+      "userid": 1,
+      "username": "haya ahmed",
+      "useremail": "haya@gmail.com",
+      "userAddress": "5 street eltawfeqeaa masrelgdeda ,cairo",
+      "produstsIds": [
+        "3",
+        "6"
+      ],
+      "produstsname": [
+        "off white frame ",
+        "off white Classy chair"
+      ],
+      "produstsImgs": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHxNGcwgQNCqie2bAjSqpvCdnQYDhNpLs_Q&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdiKnQfp_aF1R7il5CtkF4-939ofWgazFSYQ&usqp=CAU"
+      ],
+      "orderprice": 650,
+      "id": 1
+    },
+    {
+      "userid": 3,
+      "username": "khaled",
+      "useremail": "khaled1234@gmail.com",
+      "userAddress": "new add2",
+      "produstsIds": [
+        "4",
+        "7"
+      ],
+      "produstsname": [
+        "6 different shapes of frame ",
+        "white Classy chair"
+      ],
+      "produstsImgs": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnumqZDaC8A19edbfbDHLurjCzu5m8kSd3HA&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvqjrVChNTOx_MbPVsZV-ayVj3dZV37-aJeg&usqp=CAU"
+      ],
+      "orderprice": 750,
+      "id": 4
+    },
+    {
+      "userid": 3,
+      "username": "khaled",
+      "useremail": "khaled1234@gmail.com",
+      "userAddress": "new order address",
+      "produstsIds": [
+        "8",
+        "3"
+      ],
+      "produstsname": [
+        "classy heels shoes",
+        "off white frame "
+      ],
+      "produstsImgs": [
+        "https://images.pexels.com/photos/336372/pexels-photo-336372.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHxNGcwgQNCqie2bAjSqpvCdnQYDhNpLs_Q&usqp=CAU"
+      ],
+      "orderprice": 450,
+      "id": 5
+    },
+    {
+      "userid": 1,
+      "username": "haya ahmed",
+      "useremail": "haya@gmail.com",
+      "userAddress": "hyayyah",
+      "produstsIds": [
+        "13",
+        "15",
+        "3"
+      ],
+      "produstsname": [
+        "white dinning table",
+        "beige off white office table",
+        "off white frame "
+      ],
+      "produstsImgs": [
+        "https://images.pexels.com/photos/2097118/pexels-photo-2097118.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1957477/pexels-photo-1957477.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwHxNGcwgQNCqie2bAjSqpvCdnQYDhNpLs_Q&usqp=CAU"
+      ],
+      "orderprice": 1150,
+      "id": 6
+    }
+  ]
+}
