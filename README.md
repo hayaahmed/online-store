@@ -47,7 +47,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ![](./screenshots/home-landing.JPG)
 - mobile home
 ![](./screenshots/mobilehome.JPG)
-![](./screenshots/about.JPG.JPG)
+![](./screenshots/about.JPG)
 ![](./screenshots/Categories.JPG)
 ![](./screenshots/search.JPG)
 ![](./screenshots/footer.JPG)
